@@ -1,0 +1,51 @@
+NIK,Nama,Tahun,Periode,Memiliki kartu perlindungan sosial (KPS),Status perkawinan,Umur,Jumlah tanggungan keluarga,Pekerjaan,Penghasilan,Status kepemilikan rumah,Luas Bangunan,Kondisi rumah,Jaringan listrik,Sumber air,Kepemilikan Kendaraan
+100000000000,Nama1,2021,1,Tidak,Belum Kawin,60 keatas,3,Guru,Lebih Dari 1 juta,Milik sendiri,31 m2 - 40 m2,Campuran,Genset,PDAM,Motor
+100000000001,Nama2,2023,1,Ya,Belum Kawin,31-40,4,Guru,500-1 juta,Sewa,31 m2 - 40 m2,Kayu,Tidak ada,PDAM,Mobil
+100000000002,Nama3,2023,2,Tidak,Belum Kawin,41-60,1,Petani,Lebih Dari 1 juta,Sewa,<30 m2,Beton,Genset,Sumur,Motor
+100000000003,Nama4,2021,1,Ya,Belum Kawin,60 keatas,4,Buruh,Kurang Dari 500 perbulan,Sewa,<30 m2,Beton,Tidak ada,Sumur,Tidak ada
+100000000004,Nama5,2021,2,Tidak,Kawin,41-60,5 lebih,Petani,Lebih Dari 1 juta,Tidak memiliki,31 m2 - 40 m2,Campuran,Genset,Sumur,Sepeda
+100000000005,Nama6,2022,2,Tidak,Kawin,31-40,1,Petani,Kurang Dari 500 perbulan,Sewa,31 m2 - 40 m2,Beton,Genset,PDAM,Mobil
+100000000006,Nama7,2023,2,Tidak,Kawin,41-60,4,Petani,Kurang Dari 500 perbulan,Tidak memiliki,41 m2 - 60 m2,Kayu,PLN,PDAM,Tidak ada
+100000000007,Nama8,2023,1,Ya,Belum Kawin,60 keatas,4,Guru,Kurang Dari 500 perbulan,Tidak memiliki,>60 m2,Beton,Tidak ada,Air Hujan,Sepeda
+100000000008,Nama9,2022,2,Ya,Kawin,60 keatas,1,Buruh,Kurang Dari 500 perbulan,Sewa,31 m2 - 40 m2,Kayu,Genset,PDAM,Sepeda
+100000000009,Nama10,2022,2,Ya,Belum Kawin,31-40,5 lebih,Buruh,Kurang Dari 500 perbulan,Sewa,>60 m2,Beton,Genset,PDAM,Sepeda
+100000000010,Nama11,2021,1,Ya,Belum Kawin,60 keatas,5 lebih,Pedagang,Lebih Dari 1 juta,Sewa,>60 m2,Campuran,PLN,Air Hujan,Mobil
+100000000011,Nama12,2022,2,Ya,Kawin,60 keatas,5 lebih,Petani,Lebih Dari 1 juta,Milik sendiri,>60 m2,Beton,Tidak ada,Air Hujan,Mobil
+100000000012,Nama13,2021,1,Ya,Kawin,30 kebawah,3,Pedagang,500-1 juta,Milik sendiri,>60 m2,Kayu,PLN,Air Hujan,Motor
+100000000013,Nama14,2023,1,Tidak,Belum Kawin,60 keatas,3,Petani,Kurang Dari 500 perbulan,Tidak memiliki,41 m2 - 60 m2,Beton,Tidak ada,Air Hujan,Mobil
+100000000014,Nama15,2023,2,Tidak,Kawin,30 kebawah,2,Tidak bekerja,Lebih Dari 1 juta,Sewa,41 m2 - 60 m2,Beton,Genset,Air Hujan,Sepeda
+100000000015,Nama16,2022,1,Tidak,Kawin,60 keatas,2,Petani,Lebih Dari 1 juta,Milik sendiri,31 m2 - 40 m2,Campuran,Genset,Air Hujan,Tidak ada
+100000000016,Nama17,2023,2,Tidak,Kawin,41-60,3,Tidak bekerja,Kurang Dari 500 perbulan,Milik sendiri,31 m2 - 40 m2,Kayu,PLN,PDAM,Mobil
+100000000017,Nama18,2022,1,Ya,Belum Kawin,41-60,3,Buruh,Lebih Dari 1 juta,Tidak memiliki,31 m2 - 40 m2,Beton,PLN,Sumur,Tidak ada
+100000000018,Nama19,2023,2,Tidak,Belum Kawin,60 keatas,4,Petani,Kurang Dari 500 perbulan,Milik sendiri,31 m2 - 40 m2,Campuran,Tidak ada,Air Hujan,Mobil
+100000000019,Nama20,2022,1,Ya,Belum Kawin,41-60,4,Buruh,Kurang Dari 500 perbulan,Sewa,31 m2 - 40 m2,Kayu,Genset,PDAM,Motor
+100000000020,Nama21,2021,2,Ya,Kawin,30 kebawah,1,Buruh,Kurang Dari 500 perbulan,Sewa,>60 m2,Campuran,Genset,PDAM,Mobil
+100000000021,Nama22,2023,1,Tidak,Kawin,41-60,1,Buruh,Kurang Dari 500 perbulan,Milik sendiri,>60 m2,Beton,PLN,PDAM,Sepeda
+100000000022,Nama23,2021,1,Tidak,Belum Kawin,30 kebawah,3,Tidak bekerja,Kurang Dari 500 perbulan,Sewa,<30 m2,Campuran,Genset,Sumur,Tidak ada
+100000000023,Nama24,2023,2,Ya,Belum Kawin,60 keatas,1,Petani,Lebih Dari 1 juta,Tidak memiliki,31 m2 - 40 m2,Kayu,Genset,Sumur,Mobil
+100000000024,Nama25,2022,1,Ya,Kawin,60 keatas,3,Pedagang,Kurang Dari 500 perbulan,Milik sendiri,41 m2 - 60 m2,Beton,Tidak ada,Air Hujan,Mobil
+100000000025,Nama26,2023,1,Tidak,Belum Kawin,31-40,3,Buruh,500-1 juta,Sewa,>60 m2,Kayu,Tidak ada,PDAM,Motor
+100000000026,Nama27,2021,1,Tidak,Belum Kawin,31-40,2,Buruh,Lebih Dari 1 juta,Tidak memiliki,>60 m2,Kayu,Genset,PDAM,Tidak ada
+100000000027,Nama28,2022,1,Tidak,Belum Kawin,41-60,3,Guru,Lebih Dari 1 juta,Tidak memiliki,>60 m2,Kayu,Tidak ada,PDAM,Mobil
+100000000028,Nama29,2021,2,Ya,Kawin,30 kebawah,3,Tidak bekerja,500-1 juta,Milik sendiri,31 m2 - 40 m2,Campuran,Tidak ada,Sumur,Sepeda
+100000000029,Nama30,2023,2,Tidak,Kawin,31-40,3,Petani,Lebih Dari 1 juta,Milik sendiri,>60 m2,Beton,PLN,PDAM,Mobil
+100000000030,Nama31,2023,2,Ya,Kawin,41-60,1,Guru,500-1 juta,Tidak memiliki,41 m2 - 60 m2,Campuran,PLN,Sumur,Motor
+100000000031,Nama32,2023,2,Ya,Belum Kawin,60 keatas,4,Buruh,Kurang Dari 500 perbulan,Milik sendiri,>60 m2,Campuran,Genset,Sumur,Tidak ada
+100000000032,Nama33,2021,2,Tidak,Kawin,31-40,5 lebih,Buruh,Lebih Dari 1 juta,Milik sendiri,41 m2 - 60 m2,Beton,Genset,Air Hujan,Tidak ada
+100000000033,Nama34,2021,2,Ya,Kawin,31-40,4,Petani,Kurang Dari 500 perbulan,Sewa,31 m2 - 40 m2,Kayu,PLN,Sumur,Motor
+100000000034,Nama35,2021,2,Tidak,Kawin,31-40,3,Buruh,500-1 juta,Sewa,>60 m2,Beton,Genset,PDAM,Tidak ada
+100000000035,Nama36,2023,2,Ya,Kawin,31-40,3,Pedagang,500-1 juta,Milik sendiri,31 m2 - 40 m2,Kayu,Genset,Sumur,Sepeda
+100000000036,Nama37,2022,2,Ya,Belum Kawin,41-60,5 lebih,Tidak bekerja,500-1 juta,Tidak memiliki,<30 m2,Campuran,Tidak ada,PDAM,Sepeda
+100000000037,Nama38,2021,2,Ya,Kawin,31-40,5 lebih,Pedagang,Lebih Dari 1 juta,Sewa,31 m2 - 40 m2,Campuran,Genset,Air Hujan,Motor
+100000000038,Nama39,2022,1,Ya,Belum Kawin,41-60,1,Buruh,Kurang Dari 500 perbulan,Sewa,41 m2 - 60 m2,Beton,PLN,PDAM,Motor
+100000000039,Nama40,2023,1,Tidak,Belum Kawin,30 kebawah,3,Buruh,500-1 juta,Sewa,41 m2 - 60 m2,Campuran,Genset,Sumur,Tidak ada
+100000000040,Nama41,2022,2,Ya,Kawin,60 keatas,2,Buruh,Kurang Dari 500 perbulan,Tidak memiliki,<30 m2,Campuran,Tidak ada,Sumur,Motor
+100000000041,Nama42,2022,2,Tidak,Belum Kawin,60 keatas,5 lebih,Petani,500-1 juta,Sewa,31 m2 - 40 m2,Beton,Genset,Sumur,Tidak ada
+100000000042,Nama43,2022,2,Ya,Belum Kawin,30 kebawah,1,Guru,Lebih Dari 1 juta,Milik sendiri,<30 m2,Kayu,Tidak ada,Air Hujan,Tidak ada
+100000000043,Nama44,2021,2,Ya,Kawin,41-60,3,Guru,Kurang Dari 500 perbulan,Tidak memiliki,31 m2 - 40 m2,Kayu,Genset,PDAM,Mobil
+100000000044,Nama45,2022,2,Tidak,Belum Kawin,60 keatas,4,Petani,Kurang Dari 500 perbulan,Sewa,>60 m2,Campuran,Tidak ada,Sumur,Tidak ada
+100000000045,Nama46,2023,1,Ya,Kawin,30 kebawah,1,Buruh,Lebih Dari 1 juta,Tidak memiliki,31 m2 - 40 m2,Kayu,PLN,Sumur,Motor
+100000000046,Nama47,2021,1,Tidak,Kawin,41-60,2,Tidak bekerja,Lebih Dari 1 juta,Milik sendiri,<30 m2,Kayu,Tidak ada,PDAM,Sepeda
+100000000047,Nama48,2023,1,Tidak,Kawin,30 kebawah,2,Buruh,Kurang Dari 500 perbulan,Milik sendiri,<30 m2,Campuran,Tidak ada,Air Hujan,Motor
+100000000048,Nama49,2023,1,Tidak,Kawin,30 kebawah,5 lebih,Petani,Lebih Dari 1 juta,Sewa,>60 m2,Campuran,Genset,PDAM,Motor
+100000000049,Nama50,2022,1,Tidak,Kawin,31-40,4,Buruh,Kurang Dari 500 perbulan,Sewa,>60 m2,Kayu,Tidak ada,PDAM,Tidak ada
